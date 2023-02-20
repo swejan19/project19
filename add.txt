@@ -1,1 +1,8 @@
-3+4+7
+#include<stdio.h>
+int main()
+{
+int a=5,b=6,sum;
+sum=a+b;
+printf("sum=%d",sum);
+}
+
